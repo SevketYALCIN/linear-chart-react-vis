@@ -1,4 +1,4 @@
-# linear-chat-react-vis
+# linear-chart-react-vis
 
 Simple implementation of a linear chart with 2 lines and dynamic switching using [react-vis](https://uber.github.io/react-vis/)
 
